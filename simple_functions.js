@@ -1,6 +1,3 @@
-//SIMPLE FUNCTIONS EXERCISE
-
-//DEFINE THREE FUNCTION THAT *CAN* BE CALLED
 function favoriteThings(){
     console.log("Khasi");
     console.log("Is my favorite meat");
@@ -16,7 +13,17 @@ function favoritePlace(){
     console.log("Because nepal is my home town");
 }
 
-//CALL EACH IN TURN
+
+
+
+
+
+
+
+
+
+
+
 favoriteThings();
 whyImHere();
 favoritePlace();
